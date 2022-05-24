@@ -1,0 +1,19 @@
+h1 {
+      color: rgb(39, 93, 192);      
+}
+
+h2 {
+      color: hsl(110, 88%, 52%);
+}
+
+h3 {
+      color: #e44487;
+}
+
+h4 {
+      color: goldenrod;
+}
+
+div {
+      background-color: lightcyan;
+}
